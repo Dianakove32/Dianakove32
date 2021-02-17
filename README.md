@@ -1,5 +1,5 @@
  
-<img src="http://p7cdn4static.sharpschool.com/UserFiles/Servers/Server_499985/Image/hello_main.jpg" width="200" text-align="center"/>
+<img src="http://p7cdn4static.sharpschool.com/UserFiles/Servers/Server_499985/Image/hello_main.jpg" width="200" margin-left="300px"/>
 
 
 **I am student at Wild Code School**
