@@ -1,5 +1,6 @@
- 
-<img src="http://p7cdn4static.sharpschool.com/UserFiles/Servers/Server_499985/Image/hello_main.jpg" width="200" margin-left="300px"/>
+ <p align="center">
+   <img src="http://p7cdn4static.sharpschool.com/UserFiles/Servers/Server_499985/Image/hello_main.jpg" width="200" />
+</p>
 
 
 **I am student at Wild Code School**
@@ -13,15 +14,10 @@
 + Hobbies: foreign language, sport
  
  **My progects:**
- - [DAVI](https://dianakove32.github.io/DAVI/) 
- 
- - [GeneratorEngl](https://dianakove32.github.io/GeneratorEngl/) 
+- [DAVI](https://dianakove32.github.io/DAVI/) 
+- [GeneratorEngl](https://dianakove32.github.io/GeneratorEngl/) 
+- [Wildlife](https://dianakove32.github.io/wildlife/index.html) 
   
- - [Wildlife](https://dianakove32.github.io/wildlife/index.html) 
- 
-
-
- 
 ### LinkedIn:  https://www.linkedin.com/feed/
  
 
