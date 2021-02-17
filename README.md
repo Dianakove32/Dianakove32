@@ -1,8 +1,24 @@
-![This is a alt text.](https://steemitimages.com/640x0/https://d1vof77qrk4l5q.cloudfront.net/img/6721620365d69658c903cfc250b49db4fd6ec658.jpg)
+ 
+<img src="https://steemitimages.com/640x0/https://d1vof77qrk4l5q.cloudfront.net/img/6721620365d69658c903cfc250b49db4fd6ec658.jpg" width="200" text-align="center"/>
 
 
+**I am student at Wild Code School**
 
-# I am student at Wild Code School
+ **Skills:**
++ Native Russian
++ English (intermediate)
++ Basic theoretical knowledge: HTML, CSS, SASS, JS, React, Git, GitHub, VS Code, Figma. The basics of testing,MSSQL
++ Driving License (Category B)
++ Computer skills: at the level of an experienced user (Microsoft Office, Internet, etc.).
++ Hobbies: foreign language, sport
+ 
+ **My progects:**
+ - [DAVI](https://dianakove32.github.io/DAVI/) 
+ 
+ - [GeneratorEngl](https://dianakove32.github.io/GeneratorEngl/) 
+  
+ - [Wildlife](https://dianakove32.github.io/wildlife/index.html) 
+ 
 
 
  
