@@ -2,16 +2,12 @@
    <img src="http://p7cdn4static.sharpschool.com/UserFiles/Servers/Server_499985/Image/hello_main.jpg" width="200" />
 </p>
 
-
 **I am student at Wild Code School**
 
  **Skills:**
 + Native Russian
 + English (intermediate)
 + Basic theoretical knowledge: HTML, CSS, SASS, JS, React, Git, GitHub, VS Code, Figma. The basics of testing,MSSQL
-+ Driving License (Category B)
-+ Computer skills: at the level of an experienced user (Microsoft Office, Internet, etc.).
-+ Hobbies: foreign language, sport
  
  **My progects:**
 - [DAVI](https://dianakove32.github.io/DAVI/) 
