@@ -1,5 +1,5 @@
  
-<img src="https://steemitimages.com/640x0/https://d1vof77qrk4l5q.cloudfront.net/img/6721620365d69658c903cfc250b49db4fd6ec658.jpg" width="200" text-align="center"/>
+<img src="http://p7cdn4static.sharpschool.com/UserFiles/Servers/Server_499985/Image/hello_main.jpg" width="200" text-align="center"/>
 
 
 **I am student at Wild Code School**
