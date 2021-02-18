@@ -13,6 +13,7 @@
 - [DAVI](https://dianakove32.github.io/DAVI/) 
 - [GeneratorEngl](https://dianakove32.github.io/GeneratorEngl/) 
 - [Wildlife](https://dianakove32.github.io/wildlife/index.html) 
+- [react-wcs-player](https://dianakove32.github.io/react-wcs-player/)
   
 ### LinkedIn:  https://www.linkedin.com/feed/
  
