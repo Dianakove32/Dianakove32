@@ -7,7 +7,7 @@
  **Skills:**
 + Native Russian
 + English (intermediate)
-+ Basic theoretical knowledge: HTML, CSS, SASS, JS, React, Git, GitHub, VS Code, Figma. The basics of testing,MSSQL
++ Knowledge: HTML, CSS, SASS, JS, React, Git, GitHub, VS Code, Figma. The basics of testing,MSSQL
  
  **My progects:**
 - [DAVI](https://dianakove32.github.io/DAVI/) 
