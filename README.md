@@ -10,6 +10,7 @@
 + Knowledge: HTML, CSS, SASS, JS, React, Git, GitHub, VS Code, Figma. The basics of testing,MSSQL
  
  **My progects:**
+- [HPH](https://otkrovennost.github.io/hackathon-pets-hotel/#/) - hackathon 
 - [DAVI](https://dianakove32.github.io/DAVI/) 
 - [GeneratorEngl](https://dianakove32.github.io/GeneratorEngl/) 
 - [Wildlife](https://dianakove32.github.io/wildlife/index.html) 
