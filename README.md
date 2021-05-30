@@ -20,7 +20,7 @@
 ### LinkedIn:  https://www.linkedin.com/feed/
  
 
-[!Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dianakove32&show_icons=true&theme=dracula)
+![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dianakove32&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianakove32&layout=compact&theme=dracula)](https://github.com/Dianakove32/github-readme-stats)
 
 <!--
