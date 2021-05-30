@@ -20,8 +20,8 @@
 ### LinkedIn:  https://www.linkedin.com/feed/
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaAgverdiev&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaAgverdiev&layout=compact&theme=dracula)](https://github.com/dianakove32/github-readme-stats)
+![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?dianakove32=IsaAgverdiev&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dianakove32=IsaAgverdiev&layout=compact&theme=dracula)](https://github.com/dianakove32/github-readme-stats)
 
 <!--
 **Dianakove32/Dianakove32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
