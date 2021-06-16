@@ -2,8 +2,6 @@
    <img src="http://p7cdn4static.sharpschool.com/UserFiles/Servers/Server_499985/Image/hello_main.jpg" width="200" />
 </p>
 
-**I am student at Wild Code School**
-
  **Skills:**
 + Native Russian
 + English (intermediate)
