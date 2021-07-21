@@ -8,6 +8,7 @@
 + Knowledge: HTML, CSS, SASS, JS, React, Git, GitHub, VS Code, Figma. The basics of testing,MSSQL
  
  **My progects:**
+- [English for kids]( https://dianakove32-efk-s1e2.netlify.app/)
 - [Match-match game](https://dianakove32-match-match-game1.netlify.app/#/ruls/)
 - [Widget](http://diana-kovaleva.me/momentum/#/)
 - [HPH](https://otkrovennost.github.io/hackathon-pets-hotel/#/) - hackathon 
