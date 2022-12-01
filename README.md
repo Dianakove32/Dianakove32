@@ -11,12 +11,12 @@
 - [reveal-presentation](https://dianakove32-presentation.netlify.app/)
 - [English for kids]( https://dianakove32-efk-s1e2.netlify.app/)
 - [Match-match game](https://dianakove32-match-match-game1.netlify.app/#/ruls/)
-- [Widget](http://diana-kovaleva.me/momentum/#/)
+<!-- - [Widget](http://diana-kovaleva.me/momentum/#/) -->
 - [HPH](https://otkrovennost.github.io/hackathon-pets-hotel/#/) - hackathon 
-- [DAVI](https://dianakove32.github.io/DAVI/) 
-- [GeneratorEngl](https://dianakove32.github.io/GeneratorEngl/) 
-- [Wildlife](https://dianakove32.github.io/wildlife/index.html) 
-- [react-wcs-player](https://dianakove32.github.io/react-wcs-player/)
+<!-- - [DAVI](https://dianakove32.github.io/DAVI/)  -->
+<!-- - [GeneratorEngl](https://dianakove32.github.io/GeneratorEngl/)  -->
+<!-- - [Wildlife](https://dianakove32.github.io/wildlife/index.html)  -->
+<!-- - [react-wcs-player](https://dianakove32.github.io/react-wcs-player/) -->
   
 ### LinkedIn:  https://www.linkedin.com/feed/
  
