@@ -5,7 +5,7 @@
  **Skills:**
 + Native Russian
 + English (intermediate)
-+ Knowledge: HTML, CSS, SASS, JS, React, Git, GitHub, VS Code, Figma. The basics of testing,MSSQL
++ Knowledge: React, NextJS, GraphQL, HTML, CSS, SASS, JS, Git, GitHub, VS Code, Figma. The basics of testing
  
  **My progects:**
 - [reveal-presentation](https://dianakove32-presentation.netlify.app/)
